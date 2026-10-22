@@ -19,6 +19,4 @@ Technologies
 
 Purpose
 
-This project represents my interest in technology, creativity, and building things for the future.
-
 Created by Legend Mendonca.
