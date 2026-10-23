@@ -1,6 +1,6 @@
 Legend Mendonca | Tech for Tomorrow
 
-A personal portfolio website showcasing my interests in technology, science, programming, and creative projects.
+A Fun website showcasing technology, science, programming, and creative projects.
 
 Built with HTML and CSS, the website features a custom embedded Minecraft Ten font and a responsive layout designed for modern devices.
 
